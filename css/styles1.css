@@ -1,14 +1,53 @@
+body{
+  background-color: #222A35;
+}
+a{
+  color: #0099FF;
+}
 .heading{
 padding: 18px;
-background-color: #2D2E38;
-color:#ABADBF;
+background-color: #222A35;
+color:white;
+}
+h3{
+  text-align: center;
+  padding: 30px;
+  color: white;
+}
+h4{
+  text-align: center;
+  padding: 10px;
 }
 .flappy-bird{
-
+width: 350px;
+float: left;
+background-color: #222A35;
+color: white;
+}
+.flappy-bird h4{
+  color: #533846;
 }
 .Bruce-AI{
-
+width: 350px;
+float: left;
+margin-left: 150px;
+background-color: #222A35;
+color: white;
+}
+.Bruce-AI h4{
+  color: #FFEA43;
 }
 .Guess-Game{
-  
+  width: 350px;
+  float:right;
+  background-color: #222A35;
+  color: white;
+}
+.Guess-Game h4{
+  color: #BA3A09;
+}
+.link{
+  color: #003333;
+  padding-top: 300px;
+  text-align: center;
 }
