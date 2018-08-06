@@ -7,6 +7,8 @@ This Web app describes mostly what I do but a little about me.
 Clone on terminal using **git clone ---url---** or download zip and unzip it.
 open in terminal by typing **Resume** or double click it
 <br/>Run it on any browser.
+## Link to live site
+https://briananointed.github.io/Resume/
 ## Technologies Used
 HTML<br/>
 CSS
