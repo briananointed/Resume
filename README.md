@@ -11,7 +11,7 @@ open in terminal by typing **Resume** or double click it
 HTML<br/>
 CSS
 ## Support and contact details
-If you have any issues,ideas or concerns contact me on<a href="https://mail.google.com/mail/?view=cm&fs=1&to=brianwachira7@gmail.com" target="_blank">brianwachira7@gmail.com</a>.All code contributions are welcomed.
+If you have any issues,ideas or concerns contact me on<a href="https://mail.google.com/mail/?view=cm&fs=1&to=brianwachira7@gmail.com" target="_blank"> brianwachira7@gmail.com</a>.All code contributions are welcomed.
 ### License
 This project is licensed under the terms of the **MIT** license.
 
