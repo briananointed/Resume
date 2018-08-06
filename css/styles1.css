@@ -50,4 +50,9 @@ color: white;
   color: #003333;
   padding-top: 300px;
   text-align: center;
+  font-size: 1.875em;
+}
+.font{
+  font-family:Arial;
+  font-size: 1.25em;
 }

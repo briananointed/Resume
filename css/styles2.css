@@ -1,14 +1,41 @@
+body{
+  background-color: #222A35;
+}
+.heading1{
+  float: left;
+  color:white;
+}
+.heading1 h1{
+  font-family: Arial;
+  font-size: 2.5em;
+  padding-bottom: 10px;
+}
+.heading2{
+  float: right;
+  width: 250px;
+  color:white;
+}
 h4{
   color: #007EBF;
 }
 .column{
-  width: 350px;
+  width: 295px;
   float: left;
-  padding: 300px;
+  padding-top: 400px;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: white;
 }
-.heading{
-  float: left;
-  padding: 18px;
-  background-color: #222A35;
-  color:white;
+.column h3{
+  color: #007EBF;
+}
+.link{
+  color: #003333;
+  padding-top: 650px;
+  text-align: center;
+  font-size: 1.875em;
+}
+.font{
+  font-family: Arial;
+  font-size: 1.25em;
 }
