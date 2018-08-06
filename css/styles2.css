@@ -39,6 +39,18 @@ h4{
   font-family: Arial;
   font-size: 1.25em;
 }
+.webdev{
+  color: #FF4B2A;
+}
+.c{
+  color: #009788;
+}
+.java{
+  color: #DF0023;
+}
+.version-control{
+  color: #F4CBB2;
+}
 @media screen and (min-width: 400px)and (max-width: 1000px) {
   body {
      background-color: #222A35;
