@@ -39,3 +39,23 @@ h4{
   font-family: Arial;
   font-size: 1.25em;
 }
+@media screen and (min-width: 400px)and (max-width: 1000px) {
+  body {
+     background-color: #222A35;
+     color: white;
+  }
+  a{
+    color: #0099FF;
+  }
+  .heading2{
+    float: left;
+    width: 250px;
+    padding: 0px;
+    color:white;
+  }
+  .column{
+    width: 250px;
+    float: left;
+    padding: 100px;
+  }
+}
